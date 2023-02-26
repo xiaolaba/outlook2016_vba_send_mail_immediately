@@ -16,7 +16,11 @@ result,
 [test_reg_add.bat](test_reg_add.bat)  
 
 
+
 ### this registry will swtich on/off the setting
+[disable_sent_immediate.reg](disable_sent_immediate.reg)  
+[enable_sent_immediate.reg](enable_sent_immediate.reg)  
+
 
 disable immediate send
 ```

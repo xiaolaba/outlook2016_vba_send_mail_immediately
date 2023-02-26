@@ -6,8 +6,17 @@ https://learn.microsoft.com/en-us/outlook/troubleshoot/synchronization/email-sta
 
 unless close the outlook and then launch again
 
+### ASM testing
+code, [read_write_reg.ASM](read_write_reg.ASM) 
+ext, [read_write_reg.EXE](read_write_reg.EXE) 
+result,
+![test.JPG](test.JPG)
 
-this registry will swtich on/off the setting
+### reg cli testing  
+[test_reg_add.bat](test_reg_add.bat)  
+
+
+### this registry will swtich on/off the setting
 
 disable immediate send
 ```

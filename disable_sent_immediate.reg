@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+;outlook2016, registry, DIABLE Send Mail Immediately, email will not send but pending on sendbox even connected to exhange server
+;by xiaolaba, 2016
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Settings\Data]
+"global_Advanced_SendImmediately"="{\"name\":\"Advanced_SendImmediately\",\"itemClass\":\"\",\"id\":\"\",\"scope\":\"global\",\"parentSetting\":\"\",\"secondaryKey\":\"\",\"status\":\"PENDINGSYNC\",\"type\":\"Bool\",\"timestamp\":0,\"metadata\":\"\",\"value\":\"false\",\"isFirstSync\":\"false\",\"source\":\"UserOverride\"}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Mail]
+"Send Mail Immediately"=dword:00000000

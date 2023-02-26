@@ -6,10 +6,10 @@ https://learn.microsoft.com/en-us/outlook/troubleshoot/synchronization/email-sta
 
 unless close the outlook and then launch again
 
-### ASM testing
-code, [read_write_reg.ASM](read_write_reg.ASM) 
-ext, [read_write_reg.EXE](read_write_reg.EXE) 
-result,
+### ASM testing  
+code, [read_write_reg.ASM](read_write_reg.ASM)  
+ext, [read_write_reg.EXE](read_write_reg.EXE)  
+result,  
 ![test.JPG](test.JPG)
 
 ### reg cli testing  
